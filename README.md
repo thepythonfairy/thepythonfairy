@@ -6,8 +6,8 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 
 - 🔭I’m currently working on [Operation Techne](https://operationtechne.wixsite.com/operationtechne). An initiative focused on increasing accessiblity in technology by providing free          learning resources in computer science and engineering!  
 - 🦾My skills include: Java, Python, C++, MATLAB, JavaScript  
-- 🚀Tech interests: Embedded system programming (I gotta learn C!), Signal Processing, Convolutional Networks  
-   
+- 🚀Tech interests: Embedded system programming (I gotta learn C!), Signal Processing, Convolutional Networks
+
 ---
 
 🤠Stalk my socials!  
@@ -17,3 +17,11 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 ---
 
 ✨Fun fact! I once made a Keanu Reeves face detector! I'm too embarrased to post it here....so I uploaded the boring version instead. Also, I love ethical hacking. My friends call it "being hacked". I call it "field testing"....they're my cherished test sujects (with their blessing of course) 😏
+
+---
+
+My Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepythonfairy&show_icons=true&locale=en&layout=compact" alt="thepythonfairy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepythonfairy&show_icons=true&locale=en" alt="thepythonfairy" /></p>
