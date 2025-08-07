@@ -16,7 +16,7 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 
 ---
 
-✨Fun fact! I once made a Keanu Reeves face detector! I'm too embarrased to post it here....so I'll upload the boring version instead. Also, I love ethical hacking. My friends call it "being hacked". I call it "field testing"....they're my cherished test subjects (with their blessing of course) 😏
+✨Fun fact! I once made a Keanu Reeves face detector! I like to think that it works, but if you don't believe me, just change the reference image to anything you want to test it! Also, I love ethical hacking. My friends call it "being hacked". I call it "field testing"....they're my cherished test subjects (with their blessing of course) 😏
 
 ---
 
