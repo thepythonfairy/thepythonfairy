@@ -13,6 +13,7 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 🤠Stalk my socials!  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram: [@thepythonfairy](https://www.instagram.com/thepythonfairy/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin: https://www.linkedin.com/in/janet-barba/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORCID: https://orcid.org/0009-0001-7847-3946
 
 ---
 
