@@ -22,6 +22,6 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 
 My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepythonfairy&show_icons=true&locale=en&layout=compact" alt="thepythonfairy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepythonfairy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="thepythonfairy's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepythonfairy&show_icons=true&locale=en" alt="thepythonfairy" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepythonfairy&theme=dark&show_icons=true&hide_border=true&count_private=true)
