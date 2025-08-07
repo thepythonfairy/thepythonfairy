@@ -11,8 +11,8 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 ---
 
 🤠Stalk my socials!  
-   Instagram: [@thepythonfairy](https://www.instagram.com/thepythonfairy/)  
-   Linkedin: https://www.linkedin.com/in/janet-barba/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram: [@thepythonfairy](https://www.instagram.com/thepythonfairy/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin: https://www.linkedin.com/in/janet-barba/
 
 ---
 
