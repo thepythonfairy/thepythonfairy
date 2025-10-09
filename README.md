@@ -10,13 +10,6 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 
 ---
 
-🤠Stalk my socials!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram: [@thepythonfairy](https://www.instagram.com/thepythonfairy/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin: https://www.linkedin.com/in/janet-barba/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORCID: https://orcid.org/0009-0001-7847-3946
-
----
-
 ✨Fun fact! I once built a Keanu Reeves face detector! I like to think that it works, but feel free to swap the reference image and test it yourself! Also, I love ethical hacking. My friends call it "being hacked". I call it "field testing"....they're my cherished test subjects (with their blessing of course) 😏
 
 ---
