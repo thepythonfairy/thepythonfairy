@@ -10,7 +10,7 @@ I am an undergraduate student pursuing a Bachelor's Degree in Electrical Enginee
 
 ---
 
-✨Fun fact! I once built a Keanu Reeves face detector! I like to think that it works, but feel free to swap the reference image and test it yourself! Also, I love ethical hacking. My friends call it "being hacked". I call it "field testing"....they're my cherished test subjects (with their blessing of course) 😏
+✨Fun fact! My favorite programming language is whichever one compiles at 3am.
 
 ---
 
